@@ -1,0 +1,1 @@
+import{K as s,o as r,c as e,z as t,L as a}from"./index-412ff49a.js";const n={__name:"web",setup(n){let u=s();return(s,n)=>{const o=a;return r(),e(o,{src:t(u).query.url},null,8,["src"])}}};export{n as default};
