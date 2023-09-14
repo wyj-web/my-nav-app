@@ -1,0 +1,1 @@
+import{Z as r,o as s,c as e,M as o,_ as t}from"./index-fe8c6c0e.js";const u={__name:"web",setup(u){let a=r();return console.log(a.query.url),(r,u)=>{const l=t;return s(),e(l,{src:o(a).query.url},null,8,["src"])}}};export{u as default};
