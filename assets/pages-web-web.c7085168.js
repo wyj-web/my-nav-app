@@ -1,0 +1,1 @@
+import{a6 as s,o as r,c as a,D as e,a7 as t}from"./index-cd6d7dbe.js";const n={__name:"web",setup(n){let u=s();return(s,n)=>{const o=t;return r(),a(o,{src:e(u).query.url},null,8,["src"])}}};export{n as default};
